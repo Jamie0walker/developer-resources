@@ -1,18 +1,9 @@
-
 # Developer Resources
 
-A curated collection of useful developer resources.
+A repository for organizing software development resources.
 
-## Categories
-- Programming documentation
-- Learning platforms
-- Developer tools
-- Open source communities
-- Coding references
+## Purpose
+Collect useful information and references for development and learning.
 
-## Goal
-Help developers discover useful learning resources.
-
-## Contributions
-Useful resource suggestions are welcome.
-  
+## Getting Started
+Browse the available repository files.
