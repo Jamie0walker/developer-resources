@@ -1,9 +1,25 @@
-# Developer Resources
+## Developer Resource Categories
 
-A repository for organizing software development resources.
+### Programming
 
-## Purpose
-Collect useful information and references for development and learning.
+Resources for learning programming languages
+and software development concepts.
 
-## Getting Started
-Browse the available repository files.
+### Web Development
+
+References for HTML, CSS and JavaScript.
+
+### Development Tools
+
+Useful tools for coding, debugging
+and project management.
+
+### Version Control
+
+Learning materials about Git
+and collaborative development.
+
+### Documentation
+
+Guides for writing clear
+and maintainable technical documentation.
