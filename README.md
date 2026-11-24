@@ -23,3 +23,12 @@ and collaborative development.
 
 Guides for writing clear
 and maintainable technical documentation.
+## Manual Testing Checklist
+
+- [ ] Open the links already listed in the repository.
+- [ ] Check that descriptions match their destinations.
+- [ ] Mark outdated or inaccessible references for correction.
+
+### Test Notes
+
+Record the observed result and any reproducible issue after running the tests.
